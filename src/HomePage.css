@@ -1,0 +1,76 @@
+.image{
+    width: 100%;
+    position: absolute;
+}
+.list2{
+    list-style: none;
+    display: inline-block;
+    padding-left: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.navbar{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    /* position: absolute; */
+
+}
+.link2{
+    text-decoration: none;
+    color: rgb(0, 4, 7);
+}
+.ol{
+    margin-left: 20%;
+}
+.image2{
+    position: relative;
+    bottom: 190px;
+    width: 20%;
+}
+.search{
+    position: relative;
+    bottom: 313px;
+    left: 500px;
+    width: 300px;
+    height: 30px;
+    border-radius: 7px;
+}
+.btn{
+    position: relative;
+    bottom: 313px;
+    left: 505px;
+    height: 30px;
+    border-radius: 10px;
+}
+.btn2{
+    position: relative;
+    bottom: 313px;
+    left: 570px;
+    width: 60px;
+    height: 30px;
+    background-color: rgb(127, 204, 255);
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn3{
+    position: relative;
+    bottom: 313px;
+    left: 575px;
+    width: 60px;
+    height: 30px;
+    background-color: rgb(248, 166, 210);
+    font-size: 15px;
+    font-weight: bold;
+}
+.h1{
+    position: relative;
+    left: 100px;
+    font-size: 60px;
+    bottom: 50px;
+}
+.span{
+    /* position: relative; */
+    color: yellow;
+    font-style: italic;
+}
