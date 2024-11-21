@@ -1,8 +1,9 @@
-.image{
+.image {
     width: 100%;
-    position: absolute;
+    position: relative;
 }
-.list2{
+
+.list2 {
     list-style: none;
     display: inline-block;
     padding-left: 20px;
@@ -10,66 +11,76 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-.navbar{
+
+.navbar {
     background-color: rgb(255, 255, 255);
     padding: 20px;
     /* position: absolute; */
 
 }
-.link2{
+
+.link2 {
     text-decoration: none;
     color: rgb(0, 4, 7);
 }
-.ol{
+
+.ol {
     margin-left: 20%;
 }
-.image2{
+
+.image2 {
     position: relative;
-    bottom: 190px;
+    bottom: 758px;
     width: 20%;
 }
-.search{
-    position: relative;
-    bottom: 313px;
-    left: 500px;
+
+.search {
+    position: absolute;
+    bottom: 580px;
+    left: 800px;
     width: 300px;
     height: 30px;
     border-radius: 7px;
 }
-.btn{
-    position: relative;
-    bottom: 313px;
-    left: 505px;
+
+.btn {
+    position: absolute;
+    bottom: 580px;
+    left: 1110px;
     height: 30px;
     border-radius: 10px;
 }
-.btn2{
-    position: relative;
-    bottom: 313px;
-    left: 570px;
+
+.btn2 {
+    position: absolute;
+    bottom: 580px;
+    left: 1190px;
     width: 60px;
     height: 30px;
     background-color: rgb(127, 204, 255);
     font-size: 15px;
     font-weight: bold;
 }
-.btn3{
-    position: relative;
-    bottom: 313px;
-    left: 575px;
+
+.btn3 {
+    position: absolute;
+    bottom: 580px;
+    left: 1255px;
     width: 60px;
     height: 30px;
     background-color: rgb(248, 166, 210);
     font-size: 15px;
     font-weight: bold;
 }
-.h1{
-    position: relative;
+
+.h1 {
+    position: absolute;
     left: 100px;
     font-size: 60px;
     bottom: 50px;
 }
-.span{
+
+.span {
     /* position: relative; */
     color: yellow;
     font-style: italic;
